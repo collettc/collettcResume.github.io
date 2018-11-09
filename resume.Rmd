@@ -2,7 +2,7 @@
 title: "Resume"
 ---
 
-<a href="collett_cameron_datascience.pdf#" class="download" title="Download Resume as PDF">Download CV</a>			
+<a href="collett_cameron_datascience.pdf#" class="download" title="Download Resume as PDF">Download Resume</a>			
 
 ## Resume
 

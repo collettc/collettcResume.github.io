@@ -6,10 +6,10 @@ navbar:
   left:
     - text: "Home"
       icon: fa-home
-      href: index.html
+      href: ../index.html
     - text: "About"
       icon: fa-user 
-      href: about.html
+      href: ../about.html
     - text: "Resume"
       icon: fa-file-pdf-o
       href: resume.html
