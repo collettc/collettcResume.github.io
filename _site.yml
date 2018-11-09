@@ -10,7 +10,7 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "Resume"
       icon: fa-file-pdf-o
       href: cv.html
     
